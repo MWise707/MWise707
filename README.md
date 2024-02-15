@@ -1,5 +1,5 @@
 Hello, I'm Mark Wiseman 👋
-A junior software engineer (in training 😃) with a passion for problem-solving and a diverse background in the U.S. Army - EOD Officer & Infantry.
+A junior software engineer with a passion for problem-solving and a diverse background in the U.S. Army - EOD Officer & Infantry.
 🚀 About Me - GROWTH MINDSET!
 I've recently transitioned into the dynamic world of software engineering, leveraging my 23 years of experience in the U.S. Army. My journey is marked by a relentless pursuit of challenges, and I've found immense joy in diving into the complexities of coding and technology. 
 💻 Tech Enthusiast
